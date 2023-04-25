@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            /* 요소 선택자? */
+            h1 {
+                color: red;
+            }

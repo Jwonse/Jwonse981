@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>이미지</head>
+
+    <body>
+        <h1>이미지1</h1><img src="https://via.placeholder.com/300x300">
+        <h1>이미지2</h1><img src="https://via.placeholder.com/300x300">
+        <h2>이미지3</h2><img src="https://via.placeholder.com/300x300">
+        <h2>이미지2</h2><img src="https://via.placeholder.com/300x300">
+        <h3>이미지2</h3><img src="https://via.placeholder.com/300x300">
+        <h3>이미지2</h3><img src="https://via.placeholder.com/300x300">
+    </body>
+
+</html>

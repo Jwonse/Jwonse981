@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>인용문</title>
+    </head>
+    <body>
+        <h1>인용문</h1>
+        <blockquote>
+            "돈은 나를 긴장 시키거나 내 플레이에 도움이 되지 않는다. 나는 그저 축구를 사랑할 뿐이다."</p>
+            <cite>리오넬 메시</cite>
+        </blockquote>
+    </body>
+</html>

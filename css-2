@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            html {
+                font-size: 15px;
+                /* 기본 폰트 크기 설정연습 */
+            }
+
+            .container {
+                font-size: 1.1rem;
+                /* 루트 요소 폰트 크기의 1.1배 */
+            }
+            h1 {
+                font-size: 1.5em;
+                /* 부모 요소의 폰트 크기의 1.5배 */
+            }
+
+            p {
+                font-size: 1.3em;
+                /* 부모 요소의 폰트 크기의 1.3배 */
+                margin-bottom: 1rem;
+                /* 루트 요소 폰트 크기의 1배 */
+            }
+        </style>
+    </head>
+
+    <body>
+        <div class="container">
+            <h1>Em 과 Rem 연습</h1>
+            <p>CSS에서 em과 Rem단위를 함께 사용하는 연습파일입니다</p>
+            <p>em 및 rem 단위를 사용하여 글꼴 크기를 조절할 수 합니다</p>
+        </div>
+    </body>
+</html>

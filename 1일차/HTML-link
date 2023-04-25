@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>링크0</title>
+    </head>
+    <body>
+        <h1>링크1</h1>
+        <p><a href="https//naver.com">예시</a> 네이버링크입니다.</p>
+        <h2>링크2</h2>
+        <p><a href="https://daum.net">예시</a> 다음링크입니다.</p>
+    </body>
+</html>

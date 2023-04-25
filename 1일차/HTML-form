@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>정보</title>>
+    </head>
+    <body>
+        <h1>정보</h1>
+        <form>
+            <label for="name">이름::</label>
+            <input type="text" id="name" name="name"><br><br>
+            <label for="email">이메일:</label>
+            <input type="email" id="email" name="email"><br><br>
+            <label for="name">비밀번호</label>
+            <input type="password" id="password" name="password"><br><br>
+            <input type="submit" value="제출하기">
+        </form>
+    </body>
+</html>
+
